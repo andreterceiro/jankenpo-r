@@ -1,3 +1,13 @@
 # jankenpo-r
 
-I will finish it when I will have time.
+# Install
+
+Linux:
+```
+sudo apt install r-base
+```
+
+# Execution
+```
+R -f <external-file>
+```
