@@ -2,7 +2,7 @@
 
 # Install
 
-Linux:
+In Linux Mint 20:
 ```
 sudo apt install r-base
 ```
@@ -11,3 +11,7 @@ sudo apt install r-base
 ```
 R -f <external-file>
 ```
+
+# Demo
+
+[Video](https://youtu.be/dv1ZSrVj-qI)
